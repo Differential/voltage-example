@@ -7,3 +7,9 @@
 .btn i {
   margin-right: 5px;
 }
+
+#login-buttons {
+  position: relative;
+  display: block;
+  padding: 13px 0;
+}
