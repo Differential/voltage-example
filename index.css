@@ -1,0 +1,9 @@
+#voltage-editor-btns {
+  text-align: right;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.btn i {
+  margin-right: 5px;
+}

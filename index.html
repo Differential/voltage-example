@@ -1,0 +1,52 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meteor Voltage Example Project</title>
+</head>
+
+<body>
+</body>
+
+<template name="layout">
+  <div class="container">
+    <div class="header">
+      <ul class="nav nav-pills pull-right">
+        <li class="active"><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li>{{loginButtons}}</li>
+      </ul>
+      <h3 class="text-muted">Meteor Voltage Example</h3>
+    </div>
+
+    {{yield}}
+
+    <div class="footer">
+      <p>A <a href="http://differential.io/">Differential</a> Open-Source project</p>
+    </div>
+
+  </div> <!-- /container -->
+</template>
+
+<template name="index">
+  <div>
+    <p class="lead">
+      This is an example project using the <a href="http://github.differential.io/meteor-voltage/">meteor-voltage</a> Meteor package.
+    </p>
+    <p class="lead">
+      Instructions:
+      <ol>
+        <li>Sign up, or log in (<code>a@a.com</code>/<code>aaaaaaaa</code>), using the <code>Sign-In</code> link in the upper right.</li>
+        <li>Navigate to the <a href="/about">About</a> page.</li>
+        <li>Click on the big <code>Edit</code> button to edit the page.</li>
+        <li>Accounts and page contents get reset every hour.</li>
+      </ol>
+    </p>
+    <p>
+      <code>voltage</code> on <a href="https://github.com/BeDifferential/meteor-voltage">GitHub</a>,
+      <a href="https://atmosphere.meteor.com/package/voltage">Atmosphere</a>, and the
+      <a href="http://github.differential.io/meteor-voltage">documentation page</a>.
+      This example project is also on <a href="https://github.com/BeDifferential/voltage-example">GitHub</a>.
+    </p>
+  </div>
+</template>
