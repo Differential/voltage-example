@@ -7,7 +7,7 @@ if (Meteor.isClient) {
     this.route('about', {
       path: '/about',
       waitOn: function() {
-        Meteor.subscribe('voltagePages');
+        return Meteor.subscribe('voltagePages');
       },
       layoutTemplate: 'layout',
       action: function() {
