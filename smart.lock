@@ -9,8 +9,8 @@
     "packages": {
       "voltage": {
         "git": "https://github.com/BeDifferential/meteor-voltage.git",
-        "tag": "v0.0.4",
-        "commit": "fbf50c683c35e67824d864edab24441d848cae9d"
+        "tag": "v0.0.6",
+        "commit": "12b8402d039efee989aaf091761674ca86f2e590"
       },
       "bootstrap-3": {
         "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
@@ -19,8 +19,8 @@
       },
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
-        "tag": "v0.6.2",
-        "commit": "ce56e58b45624dce992490f3a1c10f10d3948bae"
+        "tag": "v0.6.4",
+        "commit": "927bbaed1b87894fb6fb70807f74ff3a5bd89f29"
       },
       "minimongoid": {
         "git": "https://github.com/Exygy/minimongoid.git",
