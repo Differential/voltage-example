@@ -8,19 +8,19 @@
     },
     "packages": {
       "voltage": {
-        "git": "https://github.com/BeDifferential/meteor-voltage.git",
-        "tag": "v0.0.6",
-        "commit": "12b8402d039efee989aaf091761674ca86f2e590"
+        "git": "https://github.com/Differential/meteor-voltage.git",
+        "tag": "v0.1.0",
+        "commit": "c565e4ad844eb53db23dda537473cdd71b7ef883"
       },
       "bootstrap-3": {
         "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
-        "tag": "v3.1.0-1",
-        "commit": "329dccb08bfc18c635676dea600ac9953162cda9"
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
       },
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router.git",
-        "tag": "v0.6.4",
-        "commit": "927bbaed1b87894fb6fb70807f74ff3a5bd89f29"
+        "tag": "v0.7.0",
+        "commit": "05f34bc48c4cad9fdaa366c1ddcabe6980232ece"
       },
       "minimongoid": {
         "git": "https://github.com/Exygy/minimongoid.git",
@@ -29,18 +29,23 @@
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
-        "tag": "v1.2.6",
-        "commit": "f2a9058281f8f2fe028767841d7445aadd6893cf"
+        "tag": "v1.2.8",
+        "commit": "68844ba216c348d332bdb840825850f497f515bb"
       },
       "marked": {
         "git": "https://github.com/chuangbo/meteor-marked.git",
-        "tag": "v0.2.9",
-        "commit": "6485d6f03841501f81176e34ab375840473aa714"
+        "tag": "v0.3.2",
+        "commit": "850f63135cdeb05344c420bd586fd8af9cab75df"
       },
       "ace-embed": {
         "git": "https://github.com/stuartfenton/meteor-ace-embed.git",
         "tag": "v0.0.4",
         "commit": "027b0e1b0d06111b51a713f04a8b8750fdcbd289"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.2",
+        "commit": "8bc53798fe5965669ae67c72f91829fcfdceabfd"
       },
       "underscore-string-latest": {
         "git": "https://github.com/TimHeckel/meteor-underscore-string.git",
