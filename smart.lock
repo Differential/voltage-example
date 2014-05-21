@@ -9,8 +9,8 @@
     "packages": {
       "voltage": {
         "git": "https://github.com/Differential/meteor-voltage.git",
-        "tag": "v0.1.2",
-        "commit": "ac96dc73105516087771a6225f3c9439ed4fe193"
+        "tag": "v0.1.3",
+        "commit": "8e40babeb544948af729818dc3c2b3d1124a90f9"
       },
       "bootstrap-3": {
         "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
@@ -24,13 +24,13 @@
       },
       "minimongoid": {
         "git": "https://github.com/Exygy/minimongoid.git",
-        "tag": "v0.8.8",
-        "commit": "cf8d0bec44934d617544965977f270f2a8cdca02"
+        "tag": "v0.8.3",
+        "commit": "8a4849426f1775f9886f303067e50877696fae43"
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
-        "tag": "v1.2.8",
-        "commit": "68844ba216c348d332bdb840825850f497f515bb"
+        "tag": "v1.2.9",
+        "commit": "969b17fac5dfec66b6b12bfce4e37471d1a241d4"
       },
       "marked": {
         "git": "https://github.com/chuangbo/meteor-marked.git",
