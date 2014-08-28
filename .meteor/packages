@@ -4,8 +4,9 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-voltage
-bootstrap-3
-iron-router
 accounts-password
 accounts-ui
+mrt:bootstrap-3
+iron:router
+hellogerard:voltage
+
